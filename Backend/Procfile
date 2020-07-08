@@ -1,0 +1,1 @@
+web: gunicorn industech.wsgi --log-file -
